@@ -1,8 +1,7 @@
-## Hi there 👋
-<h1 align="center">Hey there 👋, I'm a Data Engineer who loves building smart systems</h1>
+<h1 align="center">Hey there 👋, I'm a Data nerd who loves building smart systems</h1>
 
 <p align="center">
-  💻 Machine Learning • ☁️ Cloud Data Engineering • 🧠 AI Systems • 🐍 Python Enthusiast
+  💻 Machine Learning • ☁️ Cloud Data Engineering • 🧠 AI Systems • 🐍 Python Enthusiast • Data Science
 </p>
 
 ---
@@ -32,7 +31,6 @@
 
 ### ⚙️ Tech Stack
 
-```text
 Languages:      Python, SQL, R  
 ML/DL:          Scikit-learn, TensorFlow, PyTorch, Transformers  
 Data:           Spark (PySpark), Hadoop, Ab Initio, ETL, PostgreSQL  
