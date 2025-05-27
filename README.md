@@ -39,17 +39,18 @@ Data:           Spark (PySpark), Hadoop, Ab Initio, ETL, PostgreSQL
 Cloud:          AWS (S3, EC2, Lambda, DynamoDB), GCP, Databricks  
 Tools:          LLMs,Docker, Git, Jenkins, Tableau, Jira
 
-<!--
-**rajashree-shan/rajashree-shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Ask Me About
 
-Here are some ideas to get you started:
+- 📊 Data Engineering & Machine Learning  
+- 📦 Building scalable ETL/ML pipelines on the cloud  
+- 🤖 AI tool development with LLMs  
+- 🧠 Deep learning model design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ℹ️ Extras
+
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rajashree-s)  
+- ⚡ Fun facts:
+- Inspired by *Atomic Habits*, I’ve joined the 5am club to boost productivity and start every day with intention.
+- I'm a classical singer and dancer — yes, I debug code with a raaga playing in the background!
