@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🌍 Based in New York, with roots in Chennai 🇮🇳  
-- 🎓 MS in Computer Science (AI/ML) @ University at Buffalo  
+- 🎓 MS in Computer Science (AI) @ University at Buffalo  
 - 💼 Former Data Engineer @ Barclays — optimized ETL pipelines, automated AWS workflows  
 - 🧠 Passionate about AI, LLMs, and building useful tools for people  
 - 📚 Always learning — from neural nets to big data architecture
