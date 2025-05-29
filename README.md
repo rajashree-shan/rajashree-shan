@@ -56,6 +56,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/FAISS-0064a5?style=flat&logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-3B3B3B?style=flat&logo=LangChain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 
 
 </p>
@@ -64,9 +68,9 @@
 
 ### 💬 Ask Me About
 
+- 🤖 AI tool development with LLMs  
 - 📊 Data Engineering & Machine Learning  
 - 📦 Building scalable ETL/ML pipelines on the cloud  
-- 🤖 AI tool development with LLMs  
 - 🧠 Deep learning model design
 
 ---
