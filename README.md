@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm a Data nerd who loves building smart systems</h1>
+<h1 align="center">Hey there 👋, I'm a Data nerd & AI Enthusiast who loves building smart systems</h1>
 
 <p align="center">
   <strong>🧠 AI Systems &nbsp; • &nbsp; 💻 Machine Learning &nbsp; • &nbsp; 🐍 Python Enthusiast &nbsp; • &nbsp; 📊 Data Science &nbsp; • &nbsp; ☁️ Cloud Data Engineering</strong>
