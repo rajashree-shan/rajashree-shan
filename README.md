@@ -22,8 +22,8 @@
 - 🔍 **Code Review & Refactor AI Assistant**  
   GPT-4 powered semantic code reviewer integrated into CI/CD workflows. Built with Gradio.
 
-- 🐾 **PoachAlert**  
-  Real-time wildlife poaching detection using YOLO + ArcFace. Deployed on Hugging Face.
+- 🏛️ **KYC Document Validator**  
+  A sophisticated document validation system that automates KYC (Know Your Customer) compliance checking for banks, credit unions, and financial services companies.
 
 - 🛡️ **Clara the Compliance Bot**  
   A secure, MPC-enhanced chatbot for querying encrypted audit logs, policies, and regulatory documents using natural language. Tailored for financial institutions.
